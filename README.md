@@ -1,2 +1,3 @@
-# IhateCoding
+# ReadyForCoding
+
 New repo
